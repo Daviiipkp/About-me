@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom";
-import Main_ptBR from "./pages/main_ptBR";
-import Main_enUS from "./pages/main_enUS";
+import Main_ptBR from "./pages/Main_ptBR";
+import Main_enUS from "./pages/Main_enUS";
 
 function App() {
   return (
